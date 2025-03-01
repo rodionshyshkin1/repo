@@ -1,0 +1,7 @@
+stages:
+  generate_folds:
+    cmd: python generate_folds.py
+    deps:
+    - raw
+    outs:
+    - folds
