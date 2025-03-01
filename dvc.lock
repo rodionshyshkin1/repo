@@ -5,12 +5,12 @@ stages:
     deps:
     - path: raw
       hash: md5
-      md5: 0f2cb7fb18793662f94871eb0e998dd3.dir
-      size: 8666817579
-      nfiles: 638
+      md5: 775f2d8b0fb7b1cf7e165a45a878e33c.dir
+      size: 8663245642
+      nfiles: 636
     outs:
     - path: folds
       hash: md5
-      md5: 4edd0bdda46b89d0ac15339cdd50986a.dir
-      size: 414990
+      md5: aff936ee6a8150654466f5e437575d7e.dir
+      size: 414240
       nfiles: 10
