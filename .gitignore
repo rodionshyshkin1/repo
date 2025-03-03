@@ -1,3 +1,4 @@
 data/raw
 data/folds
-.DS_Store
+**/.DS_Store
+**/.env
